@@ -12,31 +12,31 @@
     "hardSkills": [
       {
         "nome": "Java",
-        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/GAMIDAm/Portfolio/refs/heads/projeto-base/data/imgs/java.png"
       },
       {
         "nome": "Javascript",
-        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/javascript.png"
+        "logo": "https://raw.githubusercontent.com/GAMIDAm/Portfolio/refs/heads/projeto-base/data/imgs/javascript.png"
       },
       {
         "nome": "HTML",
-        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/GAMIDAm/Portfolio/refs/heads/projeto-base/data/imgs/html.png"
       },
       {
         "nome": "CSS",
-        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/GAMIDAm/Portfolio/refs/heads/projeto-base/data/imgs/css.png"
       },
       {
         "nome": "MySQL",
-        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/GAMIDAm/Portfolio/refs/heads/projeto-base/data/imgs/mysql.png"
       },
       {
         "nome": "git",
-        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/GAMIDAm/Portfolio/refs/heads/projeto-base/data/imgs/git.png"
       },
       {
         "nome": "github",
-        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/GAMIDAm/Portfolio/refs/heads/projeto-base/data/imgs/github.png"
       }
     ],
     "softSkills": [
