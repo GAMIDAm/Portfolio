@@ -11,16 +11,32 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
-      },
-      {
         "nome": "Java",
-        "logo": "TODO"
+        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/java.png"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "nome": "Javascript",
+        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/javascript.png"
+      },
+      {
+        "nome": "HTML",
+        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/html.png"
+      },
+      {
+        "nome": "CSS",
+        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/css.png"
+      },
+      {
+        "nome": "MySQL",
+        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/mysql.png"
+      },
+      {
+        "nome": "git",
+        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/git.png"
+      },
+      {
+        "nome": "github",
+        "logo": "https://github.com/GAMIDAm/Portfolio/blob/projeto-base/data/imgs/github.png"
       }
     ],
     "softSkills": [
